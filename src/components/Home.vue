@@ -61,6 +61,7 @@
         mounted: function () {
 //      this.devMsg();
             this.loadNF();
+          this.$router.push({path: '/emp/basic'});
         },
         methods: {
             loadNF() {
