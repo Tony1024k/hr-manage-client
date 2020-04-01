@@ -1,4 +1,4 @@
-# vuehr
+# hr-manage-client
 
 > A Vue.js project
 
